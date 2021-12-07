@@ -1,0 +1,101 @@
+Seja bem vinda/o/e
+
+Essas são anotações básicas que fiz quando cursei Introdução a
+Lógica de  Programação na plataforma Digital Innovation One - DIO
+
+Bons estudos!!!
+
+---------------------------------------
+
+LÓGICA = coerência da raciocínio
+
+LÓGICA DE PROGRAMAÇÃO: tem como função contextualizar a lógica 
+na programação de computadores, buscando sempre a melhor sequência
+de ações para solucionar um problema.
+
+Dentro da lógica de programação vamos encontar outros termos 
+utilizados para ações que consequentemente serão desenvolvidas 
+conforme avançamos na teoria e na prática.
+
+É importante saber sobre metacognição, abstração, algoritmo e pseudocódigo.
+Além disso conheceremos também sobre Fluxograma, Concatenação e veremos
+um pouco sobre o Portugol.
+
+METACOGNIÇÃO
+Em uma simplificação rápida é: pensar como pensamos. 
+
+Parece confuso em um primeiro momento, mas nã verdade é bem mais simples.
+A metacognição é nossa capacidade de saber sobre nosso comportamento, 
+além do das outras pessoas.
+
+Quando estamos aprendendo algo e conseguimos saber e entender como 
+será nosso processo de aprendizagem, aprendemos sobre a forma que pensamos.
+
+Isso é metacognição. E sabendo como nossa aprendizagem ocorre, podemos
+torná-la efetiva conseguindo resolver problemas, planejar, análisar e memorizar
+de forma mais rápida e consciente do que estamos fazendo.
+
+ABSTRAÇÃO
+É uma habilidade de concentração nos aspectos essenciais de um contexto.
+Sendo orienta a objetos, a abstração oculta detalhes irrelevantes dos usuários
+mostrando apenas informações essenciais, reduzindo, assim, a complexidade
+e os esforços de programação.
+
+ALGORITMO
+Esse aqui tenho certeza que você já ouviu falar. Algoritmo é uma
+sequência de passos que resolve um problema. Simplificando o conceito,
+um algoritmo tem que ter início e fim, uma descrição detalhada, como numa receita,
+de forma ordenada com começo e final.
+
+O algoritmo também é a base do estudo de programação.
+
+PSEUDOCÓDIGO
+Este aqui é uma maneira genérica de escrever um algortimo, utilizando
+uma linguagem simples.
+
+Para adintar um pouco, vou pular alguns termos direto para o Portugol
+assim, vocÊ vai entender melhor sobre pseudocódigo.
+
+O que é o PORTUGOL?
+É uma pseudolinguagem que permite que o leitor desenvolva algoritmos
+estgruturados em português de forma simples e intuitiva, independente
+da linguagem de programação.
+
+O Portugol é onde damos nossos primeiro spassos escrevendo linhas de 
+código, fazendo testes e resolvendo problemas. Tem uma interface bem 
+amigável e intuitiva fazendo com que, mesmo iniciante você sinta-se
+confinate para explorar o universo da programação.
+
+Vamos agora entender sobre Fluxograma e Concatenação
+
+Dentro da programação, nós utilizamos ferramnetas para representar 
+o algoritmo de maneira gráfica. Isso é chamado de FLUXOGRAMA.
+
+Você sabe o que são mapas mentais? Se souber, ótimo, caso não saiba
+vou explicar. O Fluxograma segue basicamente um desenho estruturado,
+como um organograma que vai passando de um ponto para outro, cada um
+desempenhando uma função específica e onde juntos, fazem tudo acontecer.
+
+O Fluxograma é formado por: Ínício> Entrada> Processamento> Saída> Fim.
+
+Com esse caminho nós vamos fazer toda a estrutura do nosso algoritmo 
+colocando cada coisa em seu determinado lugar.
+
+CONCATENAÇÃO
+É uma operação de união do conteúdo de duas strings. 
+Strings são sequências de caracteres.
+
+Bom, para iniciar, esses foram os meus registros sobre o
+curso de Introdução a Lógica de Programação da Digital
+Innovation One - DIO.
+
+Desejo que tenha te ajudado a entender um pouco sobre esse universo
+e deixo aqui o link para fazer esse ou outros cursos na DIO, 
+venha, seja parte da nossa comunidade também, você vai amar.
+
+https://dio.me/sign-up?ref=I9DRC9LEH6
+
+
+Até a próxima.
+
+
